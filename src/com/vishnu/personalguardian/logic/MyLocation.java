@@ -4,6 +4,8 @@ public class MyLocation {
 	private String address;
 	private double lattitude;
 	private double longitude;
+	private double distanceToDest;	//in kilometer
+	private long time;
 
 	public MyLocation() {
 		
@@ -14,6 +16,15 @@ public class MyLocation {
 		this.address = address;
 		this.lattitude = lattitude;
 		this.longitude = longitude;
+	}
+
+	public MyLocation(double lattitude, double longitude,
+			double distanceToDest, long time) {
+		super();
+		this.lattitude = lattitude;
+		this.longitude = longitude;
+		this.distanceToDest = distanceToDest;
+		this.time = time;
 	}
 
 	public String getAddress() {
@@ -40,4 +51,19 @@ public class MyLocation {
 		this.longitude = longitude;
 	}
 
+	public double getDistanceToDest() {
+		return distanceToDest;
+	}
+
+	public void setDistanceToDest(double distanceToDest) {
+		this.distanceToDest = distanceToDest;
+	}
+
+	public long getTime() {
+		return time;
+	}
+
+	public void setTime(long time) {
+		this.time = time;
+	}
 }

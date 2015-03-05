@@ -21,7 +21,7 @@ import android.util.Log;
 public class XMLreaderDistance {
 
 	private String result;
-	
+
 	public String readURL(String url) {
 		HttpClient client = new DefaultHttpClient();
 		HttpGet httpGet = new HttpGet(url);
@@ -34,6 +34,8 @@ public class XMLreaderDistance {
 				InputStream content = entity.getContent();
 				BufferedReader reader = new BufferedReader(
 						new InputStreamReader(content));
+				boolean isRowFound = false;
+				boolean isStatusFound = false;
 				boolean isDistanceFound = false;
 				boolean isTextFound = false;
 				try {
@@ -46,14 +48,36 @@ public class XMLreaderDistance {
 					while (eventType != XmlPullParser.END_DOCUMENT) {
 						switch (eventType) {
 						case XmlPullParser.START_TAG:
+							// check whether got result or not
+							if ("row".equalsIgnoreCase(xpp.getName())) {
+								isRowFound = true;
+							}
+							if (isRowFound
+									&& "status".equalsIgnoreCase(xpp.getName())) {
+								isStatusFound = true;
+							}
+
+							// code to identify distance value
 							if ("distance".equalsIgnoreCase(xpp.getName())) {
 								isDistanceFound = true;
 							}
-							if(isDistanceFound && "text".equalsIgnoreCase(xpp.getName())){
+							if (isDistanceFound
+									&& "value".equalsIgnoreCase(xpp.getName())) {
 								isTextFound = true;
 							}
 							break;
 						case XmlPullParser.TEXT:
+							// check whether got result or not
+							if (isRowFound && isStatusFound) {
+								result = xpp.getText();
+								isRowFound = false;
+								isStatusFound = false;
+								if (result.equalsIgnoreCase("ZERO_RESULTS")) {
+									//returns the string "ZERO_RESULTS" if no distance found
+									return result;
+								}
+							}
+
 							if (isDistanceFound && isTextFound) {
 								result = xpp.getText();
 								isDistanceFound = false;
@@ -69,7 +93,8 @@ public class XMLreaderDistance {
 				} catch (IOException ex) {
 				}
 			} else {
-				//Log.e(MainActivity.class.toString(), "Failed to download file");
+				// Log.e(MainActivity.class.toString(),
+				// "Failed to download file");
 			}
 		} catch (ClientProtocolException e) {
 

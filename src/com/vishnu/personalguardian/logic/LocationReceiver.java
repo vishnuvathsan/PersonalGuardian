@@ -85,8 +85,7 @@ public class LocationReceiver {
 								.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
 						if (location != null) {
 							listener.onLocationChanged(location);
-						}
-
+						} 
 					}
 				}
 				// if GPS Enabled get lat/long using GPS Services

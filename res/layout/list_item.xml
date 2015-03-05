@@ -3,16 +3,16 @@
     android:id="@+id/LinearLayout2"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal" >
+    android:orientation="horizontal"
+    android:background="@drawable/custom_list_item" >
 
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:layout_marginLeft="5dp"
-        android:textColor="#9D9396"
+        android:layout_margin="15dp"
+        android:textColor="#74696c"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
 </LinearLayout>

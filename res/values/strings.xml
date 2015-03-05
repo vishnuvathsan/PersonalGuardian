@@ -15,5 +15,22 @@
     <string name="btn_start_tracking">Start Tracking</string>
     <string name="hint_guardian_name">Enter Guardian\'s Name</string>
     <string name="hint_guardian_mobile">Enter Guardian\'s Mobile Number</string>
+    <string name="title_activity_map">Google Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_stop_tracking">Stop Tracking</string>
+    <string name="menu_normal_map">Normal Map</string>
+    <string name="menu_satellite_map">Satellite Map</string>
+    <string name="menu_hybrid_map">Hybrid Map</string>
+    <string name="menu_terrain_map">Terrain Map</string>
+    <string name="menu_action_wiki">Wikipedia</string>
+    <string name="destination_error_msg">It is an invalid destination.\nYou cannot reach this destination by driving.\nPick a valid destination</string>
+    <string name="internet_error_msg">Your internet connection is not working.\nCannot use the application without internet.\nCheck your internet connectivity</string>
+    <string name="gps_request_msg">You need a to turn on GPS to start this application.\nPlease turn on GPS Service in Settings</string>
+    <string name="location_service_request_msg">You need a to turn on Location Services to use this application.\nPlease turn on Location Service in Settings</string>
+    <string name="internet_request_msg">You need a network connection to use this application.\nPlease turn on mobile network or Wi-Fi in Settings</string>
+    <string name="app_instruction">You have two possible ways to provide the destination.\n\n 1) Enter your destination (in your country) and search to find list of possible destinations.\nThen you can also verify the location on Google Maps.\n\n 2) Click on the icon just before the textbox or PRESS and HOLD the text box to open google maps and point your destination by placing the MARKER over your destination point on the map and TAP on the description showing over the marker. You can MOVE/DRAG the marker by PRESS and HOLD the marker and then move.</string>
+    <string name="app_description">This application helps you to find your destination and once you started tracking service, it will track your travelling path and alert your guardian</string>
+    <string name="menu_action_weather">Weather</string>
 
 </resources>
