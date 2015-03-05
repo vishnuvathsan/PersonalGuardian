@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60bc1383-5cb4-4956-ab4e-a9cfa4d3047d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PersonalGuardian.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gridlayout_v7_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_6_5_87.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_0.xml" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\.project" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\PersonalGuardian.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\android\support\v7\appcompat\R.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\google\android\gms\R.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\R.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\AboutAuthor.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\DestinationList$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\DestinationList$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\DestinationList$MyAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\DestinationList$XmlReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\DestinationList$XmlReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\DestinationList.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Main$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Main$3.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Main$4.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Main$5.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Main.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$3.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$4.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$5.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$XmlReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map$XmlReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Map.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\PasswordAuthenticator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\PasswordAuthenticator$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\PasswordAuthenticator.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Setting$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Setting$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Setting$3.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Setting$4.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Setting.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$3.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$4.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$5.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$6.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$7.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$XmlReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash$XmlReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Splash.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$3.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$XmlReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$XmlReader$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$XmlReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking$XmlWeatherReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\Tracking.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\WeatherResult.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\WikiData$MyAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\WikiData$WikiReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\WikiData$WikiReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\WikiData.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\activity\WikiResult.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\classdiagrams\PersonalGuardian.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\LocationReceiver$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\LocationReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\MyLocation.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\OnLocationChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\TrackingService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\TrackingService$2.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\TrackingService$3.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\TrackingService$4.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\TrackingService$XmlReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\TrackingService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\UserConfDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\UserConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\Weather.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\XMLWikiReader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\XMLreader.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\XMLreaderDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\XMLreaderLocation.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\classes\com\vishnu\personalguardian\logic\XMLreaderWeather.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\dexedLibs\android-support-v4-98b62cbb85ad34f37348c5a7ffb5d675.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\dexedLibs\android-support-v7-appcompat-d3f7dec410aa61a59c6fe7ac6844001e.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\dexedLibs\appcompat_v7-4780b31955743c0dec317e9f9d2c1869.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\dexedLibs\google-play-services-8c941de7178d74a3fc690f4b61cd963b.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\dexedLibs\google-play-services_lib-88303ff064e87dd3872d558d1c997a94.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-hdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-ldpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-mdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xhdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xxhdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xxhdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xxhdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\res\crunch\drawable-xxhdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\bin\resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\gen\android\support\v7\appcompat\R.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\gen\com\google\android\gms\R.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\gen\com\vishnu\personalguardian\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\gen\com\vishnu\personalguardian\R.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\.project" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\android\UnusedStub.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\classes\com\google\android\gms\R.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\google-play-services_lib.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-hdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-mdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xhdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\bin\res\crunch\drawable-xxhdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\gen\com\google\android\gms\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\gen\com\google\android\gms\R.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\libs\google-play-services.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\libs\google-play-services.jar.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\proguard.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\color\common_signin_btn_text_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\color\common_signin_btn_text_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\color\wallet_primary_text_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\color\wallet_secondary_text_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-hdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-mdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xhdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\powered_by_google_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable-xxhdpi\powered_by_google_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable\common_signin_btn_icon_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable\common_signin_btn_icon_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable\common_signin_btn_text_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\drawable\common_signin_btn_text_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-af\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-am\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ar\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-be\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-bg\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ca\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-cs\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-da\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-de\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-el\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-en-rGB\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-en-rIN\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-es-rUS\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-es\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-es\wallet_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-et-rEE\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-fa\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-fi\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-fr-rCA\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-fr\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-hi\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-hr\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-hu\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-hy-rAM\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-in\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-it\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-iw\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ja\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ka-rGE\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-km-rKH\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ko\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-lo-rLA\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-lt\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-lv\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-mn-rMN\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ms-rMY\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-nb\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-nl\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-pl\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-pt-rBR\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-pt-rPT\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-pt\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ro\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-ru\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-sk\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-sl\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-sr\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-sv\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-sw\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-th\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-tl\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-tr\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-uk\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-vi\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-zh-rCN\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-zh-rHK\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-zh-rTW\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values-zu\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\admob_ads_attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\admob_iap_style.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\common_colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\common_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\maps_attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\version.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\wallet_attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\wallet_colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\wallet_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\res\values\wallet_styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\google-play-services_lib\src\android\UnusedStub.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\libs\android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-hdpi\powered-by-google-on-non-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-hdpi\powered-by-google-on-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-ldpi\powered-by-google-on-non-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-ldpi\powered-by-google-on-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-mdpi\powered-by-google-on-non-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-mdpi\powered-by-google-on-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-xhdpi\powered-by-google-on-non-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\android\res\drawable-xhdpi\powered-by-google-on-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\desktop\powered-by-google-on-non-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\desktop\powered-by-google-on-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\ios\powered-by-google-on-non-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\ios\powered-by-google-on-non-white@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\ios\powered-by-google-on-white.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\powered-by-google\ios\powered-by-google-on-white@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\custom_btn_location.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\custom_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-hdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\custom_btn_location.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-ldpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\custom_btn_location.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-mdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\custom_btn_location.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_google.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_location.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_location_focussed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_location_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_me.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xhdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xxhdpi\custom_btn_location.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xxhdpi\ic_location_map.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xxhdpi\ic_splash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xxhdpi\password_alert_header.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\drawable-xxhdpi\splash_label.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_about_author.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_destination_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_map.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_result.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_setting.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_splash.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\activity_tracking.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\alert_activity_password.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\layout\list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\menu\destination.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\menu\map.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\menu\menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\menu\tracking.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\values-v11\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\values-v14\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\res\xml\preferences.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\AboutAuthor.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\DestinationList.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\Map.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\PasswordAuthenticator.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\Setting.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\Splash.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\Tracking.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\WeatherResult.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\WikiData.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\activity\WikiResult.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\classdiagrams\Activity.ucls" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\classdiagrams\PersonalGuardian.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\classdiagrams\PersonalGuardian.ucls" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\LocationReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\MyLocation.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\OnLocationChangedListener.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\TrackingService.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\UserConfDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\UserConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\Weather.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\XMLWikiReader.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\XMLreader.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\XMLreaderDistance.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\XMLreaderLocation.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Programming\Projects\git\PersonalGuardian\src\com\vishnu\personalguardian\logic\XMLreaderWeather.java" afterPath="" />
+    </list>
+    <ignored path="PersonalGuardian.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PersonalGuardian" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="import-summary.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import-summary.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8551">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="235" max-vertical-offset="2618">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="PersonalGuardian" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/app" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="PersonalGuardian" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$/app">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all the Test applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="checkDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="checkReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for Debug build on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="connectedAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dexDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dexDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dexRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="installDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lintVitalRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mockableAndroidJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="packageDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="packageDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preCompileDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preCompileReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDexDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDexDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDexRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:20.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72000Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:gridlayout-v7:20.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportGridlayoutV72000Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:21.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportV42100Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services:6.5.87" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServices6587Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareDebugAndroidTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run all unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="testDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="testRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="zipalignDebug" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4276572812762" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.1.0/gradle-core-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.1.0/gradle-core-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.1.0/lint-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.1.0/lint-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.1.0/builder-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.1.0/builder-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.1.0/lint-checks-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.1.0/lint-checks-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.1.0/sdk-common-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.1.0/sdk-common-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.1.0/builder-model-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.1.0/builder-model-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.1.0/manifest-merger-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.1.0/manifest-merger-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.1.0/builder-test-api-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.1.0/builder-test-api-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.1.0/ddmlib-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.1.0/ddmlib-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.1.0/sdklib-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.1.0/sdklib-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.1.0/common-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.1.0/common-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.1.0/lint-api-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.1.0/lint-api-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.1.0/annotations-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.1.0/annotations-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.1.0/dvlib-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.1.0/dvlib-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.1.0/layoutlib-api-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.1.0/layoutlib-api-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/app">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.1.0/gradle-core-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.1.0/gradle-core-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.1.0/lint-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.1.0/lint-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.1.0/builder-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.1.0/builder-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.1.0/lint-checks-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.1.0/lint-checks-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.1.0/sdk-common-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.1.0/sdk-common-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.1.0/builder-model-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.1.0/builder-model-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.1.0/manifest-merger-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.1.0/manifest-merger-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.1.0/builder-test-api-1.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.1.0/builder-test-api-1.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.1.0/ddmlib-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.1.0/ddmlib-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.1.0/sdklib-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.1.0/sdklib-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.1.0/common-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.1.0/common-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.1.0/lint-api-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.1.0/lint-api-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.1.0/annotations-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.1.0/annotations-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.1.0/dvlib-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.1.0/dvlib-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.1.0/layoutlib-api-24.1.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.1.0/layoutlib-api-24.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                            <option value="C:/Android-sdk/extras/android/m2repository/com/android/support/gridlayout-v7/20.0.0/gridlayout-v7-20.0.0.aar" />
+                            <option value="C:/Android-sdk/extras/google/m2repository/com/google/android/gms/play-services/6.5.87/play-services-6.5.87.aar" />
+                            <option value="C:/Android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/20.0.0/appcompat-v7-20.0.0.aar" />
+                            <option value="C:/Android-sdk/extras/android/m2repository/com/android/support/support-v4/21.0.0/support-v4-21.0.0.aar" />
+                            <option value="C:/Android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/app" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="app" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/ant-1.9.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-base-services-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-base-services-groovy-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-cli-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-core-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-docs-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-launcher-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-messaging-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-model-core-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-model-groovy-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-native-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-open-api-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-resources-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-tooling-api-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-ui-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-wrapper-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/groovy-all-2.3.6.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-announce-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-antlr-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-build-comparison-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-build-init-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-code-quality-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-cunit-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-dependency-management-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-diagnostics-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ear-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ide-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ide-native-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ivy-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-jacoco-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-javascript-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-jetty-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-groovy-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-java-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-jvm-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-native-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-maven-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-osgi-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-platform-base-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-platform-jvm-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-platform-native-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-plugin-development-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-plugin-use-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-plugins-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-publish-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-reporting-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-resources-http-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-scala-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-signing-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-sonar-2.2.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PersonalGuardian" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PersonalGuardian" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Android Application.app">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="app" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60bc1383-5cb4-4956-ab4e-a9cfa4d3047d" name="Default" comment="" />
+      <created>1425524270750</created>
+      <updated>1425524270750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="366">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="366">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.62568307" vertical-offset="229" max-vertical-offset="595">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="366">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8551">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="235" max-vertical-offset="2618">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

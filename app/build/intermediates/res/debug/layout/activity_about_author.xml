@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="#c7c0c4"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:autoLink="email"
+        android:alpha="0.6"
+        android:shadowRadius="5"
+        android:drawableTop="@drawable/ic_me"
+        android:text="@string/author" />
+
+</LinearLayout>
+<!-- From: file:/E:/Programming/Projects/git/PersonalGuardian/app/src/main/res/layout/activity_about_author.xml -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_alignLeft="@+id/scrollView1"
+    android:layout_alignStart="@+id/scrollView1"
+    android:layout_alignTop="@+id/scrollView1"
+    android:orientation="vertical"
+    android:weightSum="100"
+    android:background="#dedede" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="70" >
+
+        <TextView
+            android:id="@+id/tvTrackData"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/journeyDesc"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15" >
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/btn_start_tracking" />
+
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15" >
+
+        <Button
+            android:id="@+id/btnStop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/btn_stop_tracking" />
+
+    </RelativeLayout>
+
+
+</LinearLayout><!-- From: file:/E:/Programming/Projects/git/PersonalGuardian/app/src/main/res/layout/activity_tracking.xml -->

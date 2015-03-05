@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dedede"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnSearch"
+        android:layout_margin="15dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="@string/app_instruction"
+            android:textColor="#74696c"
+            android:textStyle="italic" />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/ivGoogle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/layout_linear"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/layout_linear"
+        android:layout_marginTop="15dp"
+        android:contentDescription="@string/imageDescription"
+        android:src="@drawable/ic_google" />
+
+    <LinearLayout
+        android:id="@+id/layout_linear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivGoogle"
+        android:layout_margin="15dp"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <Button
+            android:id="@+id/btnMap"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/custom_btn_location" />
+
+        <EditText
+            android:id="@+id/etxtDestination"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="100"
+            android:ems="10"
+            android:hint="@string/hint_enter_destination"
+            android:inputType="textPostalAddress" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_linear"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:text="@string/btn_search" />
+
+</RelativeLayout><!-- From: file:/E:/Programming/Projects/git/PersonalGuardian/app/src/main/res/layout/activity_main.xml -->
