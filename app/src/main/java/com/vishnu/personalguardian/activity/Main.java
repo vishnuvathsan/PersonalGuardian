@@ -1,25 +1,11 @@
 package com.vishnu.personalguardian.activity;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-
-import com.vishnu.personalguardian.R;
-import com.vishnu.personalguardian.logic.TrackingService;
-import com.vishnu.personalguardian.logic.UserConfDAO;
-import com.vishnu.personalguardian.logic.UserConfiguration;
-
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.util.Log;
-import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -29,6 +15,11 @@ import android.view.View.OnLongClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.vishnu.personalguardian.R;
+import com.vishnu.personalguardian.logic.TrackingService;
+import com.vishnu.personalguardian.logic.UserConfDAO;
+import com.vishnu.personalguardian.logic.UserConfiguration;
 
 //http://maps.googleapis.com/maps/api/geocode/json?address=" + address + "&sensor=true
 //http://maps.googleapis.com/maps/api/geocode/xml?address=%22apple%22&sensor=true&components=country:Sri%20Lanka
@@ -42,11 +33,11 @@ import android.widget.Toast;
  */
 public class Main extends Activity {
 
+	public static UserConfiguration conf;
 	private Button btnSearch, btnMap;
 	private EditText etxtDestination;
 	private String country;
 	private double currLat, currLon;
-	public static UserConfiguration conf;
 
 	private void openMapView() {
 		// this open a google map view on a new window
@@ -155,24 +146,24 @@ public class Main extends Activity {
 		return super.onOptionsItemSelected(item);
 	}
 
-	@Override
-	public void onBackPressed() { // show alert dialog for confirmation to exit
-									// the application
-		AlertDialog.Builder builder = new AlertDialog.Builder(this);
-		builder.setTitle("Exit")
-				.setMessage("Do you want to exit?\nIf you exit, the tracking service will be stopped(instead, click CANCEL and press HOME)")
-				.setCancelable(false)
-				.setPositiveButton("Yes",
-						new DialogInterface.OnClickListener() {
-							@Override
-							public void onClick(DialogInterface dialog,
-									int which) {
-								showPasswordDialog();
-							}
-						}).setNegativeButton("No", null);
-		AlertDialog alert = builder.create();
-		alert.show();
-	}
+//	@Override
+//	public void onBackPressed() { // show alert dialog for confirmation to exit
+//									// the application
+//		AlertDialog.Builder builder = new AlertDialog.Builder(this);
+//		builder.setTitle("Exit")
+//				.setMessage("Do you want to exit?\nIf you exit, the tracking service will be stopped(instead, click CANCEL and press HOME)")
+//				.setCancelable(false)
+//				.setPositiveButton("Yes",
+//						new DialogInterface.OnClickListener() {
+//							@Override
+//							public void onClick(DialogInterface dialog,
+//									int which) {
+//								showPasswordDialog();
+//							}
+//						}).setNegativeButton("No", null);
+//		AlertDialog alert = builder.create();
+//		alert.show();
+//	}
 	
 	private void showPasswordDialog() {
 		LayoutInflater inflater = (LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);

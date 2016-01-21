@@ -10,12 +10,24 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:textColor="#c7c0c4"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:autoLink="email"
         android:alpha="0.6"
+        android:autoLink="email"
         android:shadowRadius="5"
-        android:drawableTop="@drawable/ic_me"
-        android:text="@string/author" />
+        android:text="@string/author1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#c7c0c4" />
+
+    <TextView
+        android:id="@+id/tv_author2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:alpha="0.6"
+        android:autoLink="email"
+        android:shadowRadius="5"
+        android:text="@string/author2"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#c7c0c4" />
 
 </LinearLayout>

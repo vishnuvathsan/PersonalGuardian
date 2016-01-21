@@ -11,7 +11,8 @@
     <string name="title_activity_start_tracking">Tracker</string>
     <string name="journeyDesc">Current Position:\n\n\n\n\nDestination:</string>
     <string name="menu_author">Author</string>
-    <string name="author">B.Vishnuvathsasarma\nvishnuvathsan@gmail.com</string>
+    <string name="author1">B.Vishnuvathsasarma\nvishnuvathsan@gmail.com</string>
+    <string name="author2">L.Gobinath\nslgobinath@gmail.com</string>
     <string name="btn_start_tracking">Start Tracking</string>
     <string name="hint_guardian_name">Enter Guardian\'s Name</string>
     <string name="hint_guardian_mobile">Enter Guardian\'s Mobile Number</string>

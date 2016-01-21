@@ -1,15 +1,10 @@
 package com.vishnu.personalguardian.activity;
 
-import com.vishnu.personalguardian.R;
-import com.vishnu.personalguardian.logic.TrackingService;
-import com.vishnu.personalguardian.logic.Weather;
-import com.vishnu.personalguardian.logic.XMLreaderDistance;
-import com.vishnu.personalguardian.logic.XMLreaderWeather;
-
-import android.support.v7.app.ActionBarActivity;
+import android.app.ActivityManager;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.app.Service;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
@@ -18,17 +13,23 @@ import android.location.LocationManager;
 import android.os.AsyncTask;
 import android.os.BatteryManager;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.View.OnLongClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.vishnu.personalguardian.R;
+import com.vishnu.personalguardian.logic.TrackingService;
+import com.vishnu.personalguardian.logic.Weather;
+import com.vishnu.personalguardian.logic.XMLreaderDistance;
+import com.vishnu.personalguardian.logic.XMLreaderWeather;
 
 /**
  * The TRACKING ACTIVITY of the application to see destination detail (address,
@@ -82,7 +83,8 @@ public class Tracking extends ActionBarActivity {
 		// button id problem...working with swapped IDs
 		btnStart = (Button) findViewById(R.id.btnStart);
 		btnStop = (Button) findViewById(R.id.btnStop);
-		btnStop.setEnabled(false);
+		btnStart.setEnabled(!isTrackingServiceRunning());
+		btnStop.setEnabled(isTrackingServiceRunning());
 
 		btnStart.setOnClickListener(new OnClickListener() {
 
@@ -95,6 +97,7 @@ public class Tracking extends ActionBarActivity {
 
 					serviceIntent = new Intent(Tracking.this,
 							TrackingService.class);
+					serviceIntent.addCategory(TrackingService.TAG);
 					serviceIntent
 							.putExtra("Destination Latitude", destLatitude);
 					serviceIntent.putExtra("Destination Longitude",
@@ -214,7 +217,7 @@ public class Tracking extends ActionBarActivity {
 				ringProgressDialog.setCancelable(false);
 				String url = "http://api.openweathermap.org/data/2.5/find?lat="
 						+ destLatitude + "&lon=" + destLongitude
-						+ "&mode=xml&units=metric&type=accurate";
+						+ "&mode=xml&units=metric&type=accurate&appid=de5d46f8ea90bc11bfd6bf3d9fa2026f";
 				weatherReader = new XMLreaderWeather();
 				new XmlWeatherReader().execute(url);
 			} else {
@@ -280,9 +283,12 @@ public class Tracking extends ActionBarActivity {
 								TrackingService.smsCancelTimer.cancel();
 								TrackingService.isDestinationReached = true;
 								Log.i("Timer", "Cancelled");
-								if (serviceIntent != null) {
-									stopService(serviceIntent);
+								if (serviceIntent == null) {
+									serviceIntent = new Intent(Tracking.this,
+											TrackingService.class);
 								}
+								serviceIntent.addCategory(TrackingService.TAG);
+								stopService(serviceIntent);
 								btnStart.setEnabled(true);
 								btnStop.setEnabled(false);
 							}
@@ -295,6 +301,16 @@ public class Tracking extends ActionBarActivity {
 				}).setNegativeButton("Cancel", null);
 		AlertDialog alert = builder.create();
 		alert.show();
+	}
+
+	public boolean isTrackingServiceRunning() {
+		ActivityManager manager = (ActivityManager) getSystemService(Context.ACTIVITY_SERVICE);
+		for (ActivityManager.RunningServiceInfo service : manager.getRunningServices(Integer.MAX_VALUE)) {
+			if (TrackingService.class.getName().equals(service.service.getClassName())) {
+				return true;
+			}
+		}
+		return false;
 	}
 
 	private class XmlReader extends AsyncTask<String, Void, String> {

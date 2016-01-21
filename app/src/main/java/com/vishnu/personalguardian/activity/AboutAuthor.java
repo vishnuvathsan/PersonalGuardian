@@ -1,8 +1,9 @@
 package com.vishnu.personalguardian.activity;
 
-import com.vishnu.personalguardian.R;
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.vishnu.personalguardian.R;
 /**
  * The ACTIVITY of the application to show about the author and contact email in dialog
  * 
@@ -16,6 +17,6 @@ public class AboutAuthor extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_about_author);
-		setTitle("Author");
+		setTitle("Authors");
 	}
 }
