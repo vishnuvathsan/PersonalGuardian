@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
-
-    <EditTextPreference
-        android:key="number"
-        android:summary="Enter Guardian&apos;s Mobile Number"
-        android:title="Guardian&apos;s Mobile Number" />
-
-</PreferenceScreen><!-- From: file:/E:/Programming/Projects/git/PersonalGuardian/app/src/main/res/xml/preferences.xml -->

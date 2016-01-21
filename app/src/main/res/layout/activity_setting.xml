@@ -7,68 +7,66 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.vishnu.personalguardian.activity.Setting" >
+    tools:context="com.vishnu.personalguardian.activity.Setting">
 
     <ScrollView
         android:id="@+id/scroll1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="15dp" >
+        android:layout_margin="15dp">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="21dp"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Guardian&apos;s Name" />
-
-            <EditText
-                android:id="@+id/etxtName"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:ems="10"
-                android:hint="@string/hint_guardian_name"
-                android:inputType="text" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="14dp"
-                android:text="Guardian&apos;s Phone" />
-
-            <EditText
-                android:id="@+id/etxtPhone"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:ems="10"
-                android:hint="@string/hint_guardian_mobile"
-                android:inputType="phone" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="14dp"
-                android:text="Password" />
-
-            <EditText
-                android:id="@+id/etxtPassword"
+            <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:fontFamily="sans-serif"
-                android:hint="Enter Password"
-                android:inputType="textPassword" />
+                android:hint="Guardian&apos;s Name">
+
+                <EditText
+                    android:id="@+id/etxtName"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="text" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Guardian&apos;s Phone">
+
+                <EditText
+                    android:id="@+id/etxtPhone"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="phone" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Password">
+
+                <EditText
+                    android:id="@+id/etxtPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:fontFamily="sans-serif"
+                    android:inputType="textPassword" />
+            </android.support.design.widget.TextInputLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="14dp"
                 android:orientation="horizontal"
-                android:weightSum="100" >
+                android:weightSum="100">
 
                 <View
                     android:layout_width="0dp"
@@ -79,8 +77,8 @@
                     android:id="@+id/btnSave"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="20"
                     android:layout_marginBottom="5dp"
+                    android:layout_weight="20"
                     android:text="Save" />
             </LinearLayout>
         </LinearLayout>

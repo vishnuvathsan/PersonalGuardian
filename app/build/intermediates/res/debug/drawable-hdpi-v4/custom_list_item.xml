@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" >
-    
-    <item android:state_pressed="true" android:drawable="@drawable/abc_menu_dropdown_panel_holo_light"/>
-    <item android:state_focused="true" android:drawable="@drawable/abc_ab_bottom_solid_light_holo"/>
-    <item android:drawable="@drawable/abc_textfield_searchview_right_holo_light"/>
-
-</selector>
-<!-- From: file:/E:/Programming/Projects/git/PersonalGuardian/app/src/main/res/drawable-hdpi/custom_list_item.xml -->
